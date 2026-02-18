@@ -8,10 +8,15 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset into a DataFrame and explore its contents to understand the data structure.
+   
+2.Separate the dataset into independent (X) and dependent (Y) variables, and split them into training and testing sets.
+
+3.Create a linear regression model and fit it using the training data.
+
+4.Predict the results for the testing set and plot the training and testing sets with fitted lines.
+
+5.Calculate error metrics (MSE, MAE, RMSE) to evaluate the model’s performance.
 
 ## Program:
 ```
@@ -23,7 +28,9 @@ RegisterNumber:
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="1006" height="457" alt="image" src="https://github.com/user-attachments/assets/eb6ef31f-6b2a-4a7d-b051-60751ba7d89e" />
+<img width="1851" height="793" alt="image" src="https://github.com/user-attachments/assets/61728a5a-40e2-4a06-933b-c8a384978ba0" />
+
 
 
 ## Result:
